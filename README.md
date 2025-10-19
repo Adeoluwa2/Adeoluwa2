@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.gif" alt="Adeoluwa Oyinlola — AI Researcher" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Adeoluwa2/Adeoluwa2/main/assets/hero.gif" alt="Adeoluwa Oyinlola — AI Researcher" width="100%"/>
 </div>
 
 <h1 align="center">Hey 👋, I'm Adeoluwa Oyinlola!</h1>

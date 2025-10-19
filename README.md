@@ -39,7 +39,7 @@ Building AI that bridges <b>research</b> and <b>real-world impact</b> — from m
 
 </td>
 <td align="center" width="40%">
-  <img src="./assets/ai_banner.gif" alt="AI Research Animation" width="300" />
+  <img src="./assets/ai_banner.gif" alt="AI Research Animation" width="200" />
 </td>
 </tr>
 </table>

@@ -13,52 +13,30 @@
 
 ---
 
-### 🧠 Glad to see you here!
-
-I'm a passionate **AI engineer and researcher** who loves exploring the intersection of **machine learning, IoT, and applied science**.  
-I enjoy turning research concepts into working systems that make real-world impact — in **healthcare, agriculture, and intelligent sensing**.
-
----
-
-### 💬 Talking About Personal Stuff
-
-<table>
-<tr>
-<td>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="left" width="60%">
-
 <div align="center">
 
 <table>
 <tr>
 <td width="55%" align="left" valign="middle">
 
-<table>
-<tr>
-<td>
+### 👋 Hey there  
+I’m a passionate **AI engineer and researcher** focused on bridging **machine learning research** with **real-world impact** — from medical imaging and IoT analytics to sustainable agriculture.
 
-### 👋 Hey, I'm Adeoluwa Oyinlola  
-AI Researcher | ML Engineer | Applied Scientist  
-Building AI that bridges research and real-world impact.
-
-
-  <img src="./assets/ai_banner.gif" alt="AI Start GIF" width="220" />
-
-</table>
-
-
-- 🔭 I’m currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  
-- 🚀 I’m exploring **deep learning**, **computer vision**, and **edge analytics**.  
+- 🔭 Currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  
+- 🚀 Exploring **deep learning**, **computer vision**, and **edge analytics**.  
 - 💻 Most of my projects are available here on [GitHub](https://github.com/Adeoluwa2).  
 - 💬 Ask me about **machine learning**, **medical imaging**, or **IoT analytics** — I love to help.  
-- 🎓 I recently earned an **MSc in Applied AI (Distinction)** from **London South Bank University**.  
+- 🎓 MSc **Applied Artificial Intelligence (Distinction)** – *London South Bank University*.  
 - ⚡ Fun fact: My first RF sensing prototype worked after 27 failed iterations — persistence > luck.  
-- 📫 Reach me at **[adeoluwaoyinlola@gmail.com](mailto:adeoluwaoyinlola@gmail.com)**  
+
+</td>
+<td width="45%" align="center" valign="middle">
+  <img src="./assets/ai_banner.gif" alt="AI Research Animation" style="max-width:300px; width:100%; height:auto; border-radius:10px;" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -103,13 +81,12 @@ Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision*
 
 ---
 
-
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeoluwa2&show_icons=true&theme=tokyonight" alt="Adeoluwa's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeoluwa2&show_icons=true&theme=tokyonight" alt="Adeoluwa's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adeoluwa2&theme=tokyonight&hide_border=false" alt="Adeoluwa's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adeoluwa2&theme=tokyonight&hide_border=false" alt="Adeoluwa's GitHub streak" />
 </div>
 
 ---
@@ -126,9 +103,8 @@ Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision*
 
 <div align="center">
 
-<h3>✨ If you like my work, don't forget to <a href="https://github.com/Adeoluwa2?tab=repositories">⭐ star my repositories</a>!</h3>
+<h3>⭐ If you like my work, don't forget to <a href="https://github.com/Adeoluwa2?tab=repositories">star my repositories</a>!</h3>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
-

@@ -19,7 +19,7 @@ Currently contributing to research at **UCL (University College London)** and bu
 ### 🧩 Highlight Projects
 
 - **[3D MRI Segmentation of Pituitary Gland](#)** – Built an automatic segmentation model for MRI medical image analysis using deep learning.  
-- **[Data-Driven Prediction of Glycaemic Extremes]([#](https://github.com/Adeoluwa2/diabetes-prediction))** – 92% accurate ML model for early glucose event detection.  
+- **[Data-Driven Prediction of Glycaemic Extremes](https://github.com/Adeoluwa2/diabetes-prediction)** – 92% accurate ML model for early glucose event detection.  
 - **[IoT Edge Analytics for Health Monitoring](#)** – End-to-end system predicting calorie expenditure using InfluxDB, Grafana, and MATLAB.  
 - **[Smart Garbage Classifier](https://github.com/Adeoluwa2/smart-garbage-classifier)** – End-to-end CNN-based system for classifying waste into six categories (cardboard, glass, metal, paper, plastic, trash).
 

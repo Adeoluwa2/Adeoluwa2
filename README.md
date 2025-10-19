@@ -95,5 +95,5 @@ Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision*
 ---
 
 <div align="center">
-  <b>“Turning data into systems that matter — not just models that work.”</b>
+  <b>“Star my repositories”</b>
 </div>

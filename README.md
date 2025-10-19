@@ -22,9 +22,12 @@ I enjoy turning research concepts into working systems that make real-world impa
 
 ### 💬 Talking About Personal Stuff
 
-<div align="center">
-  <img src="./assets/ai_banner.gif" alt="AI Start GIF" width="100%" />
-</div>
+<h1 align="left">Hey 👋, I'm Adeoluwa Oyinlola</h1>
+<h3 align="left">AI Researcher | Machine Learning Engineer | Applied Scientist</h3>
+
+<p align="right">
+  <img src="./assets/ai_banner.gif" alt="AI Start GIF" width="270" height="auto" />
+</p>
 
 - 🔭 I’m currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  
 - 🚀 I’m exploring **deep learning**, **computer vision**, and **edge analytics**.  

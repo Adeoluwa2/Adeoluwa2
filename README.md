@@ -53,13 +53,26 @@ I enjoy turning research concepts into working systems that make real-world impa
 
 ---
 
-### 📦 Featured Project
+### 📦 Featured Projects
 
 **[Smart Garbage Classifier](https://github.com/Adeoluwa2/smart-garbage-classifier)**  
-A neural network–based garbage classification system with **95% accuracy**.  
-Developed with **Python, Taipy, and Matplotlib** to automate waste sorting intelligently.
+🧠 A neural network–based garbage classification system achieving **95% accuracy**.  
+Built with **Python, Taipy, and Matplotlib** to automate waste sorting intelligently.
 
 ---
+
+**[Diabetes Prediction Model](https://github.com/Adeoluwa2/diabetes-prediction)**  
+📊 Machine learning system predicting diabetes onset using clinical data.  
+Implemented with **pandas**, **scikit-learn**, and **TensorFlow**, achieving **92% accuracy** and reducing error by 30%.
+
+---
+
+**[Cassava Vision System](https://github.com/Adeoluwa2/cassava-vision-system)**  
+🌾 AI-powered **RF reflectometry** and vision-based analysis for cassava crop quality sensing.  
+Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision** and **AI-based frequency selection**.
+
+---
+
 
 ### ⚡ GitHub Stats
 

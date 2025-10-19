@@ -26,16 +26,26 @@ I enjoy turning research concepts into working systems that make real-world impa
 <tr>
 <td>
 
-### 👋 Hey, I'm Adeoluwa Oyinlola  
-AI Researcher | ML Engineer | Applied Scientist  
-Building AI that bridges research and real-world impact.
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="60%">
+
+<h1>👋 Hey, I'm Adeoluwa Oyinlola</h1>
+<h3>AI Researcher&nbsp;|&nbsp;Machine Learning Engineer&nbsp;|&nbsp;Applied Scientist</h3>
+
+Building AI that bridges <b>research</b> and <b>real-world impact</b> — from medical imaging and IoT analytics to sustainable agriculture.
 
 </td>
-<td>
-  <img src="./assets/ai_banner.gif" alt="AI Start GIF" width="220" />
+<td align="center" width="40%">
+  <img src="./assets/ai_banner.gif" alt="AI Research Animation" width="300" />
 </td>
 </tr>
 </table>
+
+</div>
+
 
 
 - 🔭 I’m currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  

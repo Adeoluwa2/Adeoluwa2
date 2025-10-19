@@ -46,11 +46,9 @@ I enjoy turning research concepts into working systems that make real-world impa
 AI Researcher | ML Engineer | Applied Scientist  
 Building AI that bridges research and real-world impact.
 
-</td>
-<td>
+
   <img src="./assets/ai_banner.gif" alt="AI Start GIF" width="220" />
-</td>
-</tr>
+
 </table>
 
 

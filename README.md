@@ -110,10 +110,6 @@ Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision*
 
 ---
 
----
-
----
-
 <div align="center">
 
 <h3>✨ If you like my work, don't forget to <a href="https://github.com/Adeoluwa2?tab=repositories">⭐ star my repositories</a>!</h3>

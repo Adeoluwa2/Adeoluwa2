@@ -112,13 +112,13 @@ Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision*
 
 ---
 
+---
+
 <div align="center">
 
-### ⭐ If you found my work interesting, consider [starring my repositories](https://github.com/Adeoluwa2?tab=repositories)!
+<h3>✨ If you like my work, don't forget to <a href="https://github.com/Adeoluwa2?tab=repositories">⭐ star my repositories</a>!</h3>
 
-<a href="https://github.com/Adeoluwa2?tab=repositories">
-  <img src="https://img.shields.io/static/v1?label=Star&message=Repositories&color=yellow&style=for-the-badge&logo=github" alt="Star my repositories"/>
-</a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
 

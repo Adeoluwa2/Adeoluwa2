@@ -1,58 +1,86 @@
-# 👋 Hey, I'm Adeoluwa Oyinlola
+<div align="center">
+  <img src="./assets/hero.gif" alt="Adeoluwa Oyinlola — AI Researcher" width="100%"/>
+</div>
 
-**AI Researcher | ML Engineer | Applied Scientist**
+<h1 align="center">Hey 👋, I'm Adeoluwa Oyinlola!</h1>
+<h3 align="center">AI Researcher | Machine Learning Engineer | Applied Scientist</h3>
 
-I’m passionate about building AI systems that bridge **research and real-world impact** — from medical imaging and IoT analytics to sustainable agriculture and RF sensing.  
-Currently contributing to research at **UCL (University College London)** and building intelligent systems that actually work outside of lab conditions.
-
----
-
-### 🚀 What I Do
-
-- 🧠 **AI & Machine Learning:** Deep Learning, Computer Vision, Time-Series Prediction  
-- ⚙️ **IoT & Edge Analytics:** Real-time health & activity monitoring systems  
-- 🌾 **Applied Research:** AI-driven agriculture, RF-based sensing, medical image segmentation  
-- 💡 **Toolchain:** Python (pandas, scikit-learn, PyTorch), MATLAB, Grafana, Node-RED, InfluxDB  
+<p align="center">
+  <a href="https://linkedin.com/in/adeoluwa-oyin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.adeoluwaoyinlola.com"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:adeoluwaoyinlola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🧩 Highlight Projects
+### 🧠 Glad to see you here!
 
-- **[3D MRI Segmentation of Pituitary Gland](#)** – Built an automatic segmentation model for MRI medical image analysis using deep learning.  
-- **[Data-Driven Prediction of Glycaemic Extremes](https://github.com/Adeoluwa2/diabetes-prediction)** – 92% accurate ML model for early glucose event detection.  
-- **[IoT Edge Analytics for Health Monitoring](#)** – End-to-end system predicting calorie expenditure using InfluxDB, Grafana, and MATLAB.  
-- **[Smart Garbage Classifier](https://github.com/Adeoluwa2/smart-garbage-classifier)** – End-to-end CNN-based system for classifying waste into six categories (cardboard, glass, metal, paper, plastic, trash).
+I'm a passionate **AI engineer and researcher** who loves exploring the intersection of **machine learning, IoT, and applied science**.  
+I enjoy turning research concepts into working systems that make real-world impact — in **healthcare, agriculture, and intelligent sensing**.
 
 ---
 
-### 📚 Publications
+### 💬 Talking About Personal Stuff
 
-- *Enhancing RF Reflectometry for Cassava Quality Sensing Using AI-Based Frequency Selection*, **IEEE BioSENSORS 2025**  
-- *Can AI Enhance the Accuracy of Crop Quality Assessment with RF Reflectometry?*, **IEEE TAFE 2025**  
-- *Temperature Compensation in RF Reflectometry for Crop Quality Assessment*, **IEEE CAFE 2025**
-
----
-
-### 🎓 Education
-
-**MSc Applied Artificial Intelligence (Distinction)** — *London South Bank University*  
-**BSc Physics (Honours)** — *University of Ibadan*  
+- 🔭 I’m currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  
+- 🚀 I’m exploring **deep learning**, **computer vision**, and **edge analytics**.  
+- 💻 Most of my projects are available here on [GitHub](https://github.com/Adeoluwa2).  
+- 💬 Ask me about **machine learning**, **medical imaging**, or **IoT analytics** — I love to help.  
+- 🎓 I recently earned an **MSc in Applied AI (Distinction)** from **London South Bank University**.  
+- ⚡ Fun fact: My first RF sensing prototype worked after 27 failed iterations — persistence > luck.  
+- 📫 Reach me at **[adeoluwaoyinlola@gmail.com](mailto:adeoluwaoyinlola@gmail.com)**  
 
 ---
 
-### 📈 Stats & Activity
+### 💻 My Absolute Favorites
 
-![Adeoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adeoluwa2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeoluwa2&layout=compact&theme=tokyonight)
-
----
-
-### 💬 Let's Connect
-
-📧 [adeoluwaoyinlola@gmail.com](mailto:adeoluwaoyinlola@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/adeoluwa-oyin)  
-🌐 [Portfolio](https://www.adeoluwaoyinlola.com)
+- 🧩 Building real-world AI systems — not just Kaggle notebooks.  
+- 🧠 Reading about neuroscience-inspired AI.  
+- 🍕 Connecting data science with human impact.  
+- 🎯 Mentoring AI enthusiasts and open-source contributors.  
 
 ---
 
-> *"Turning data into systems that matter — not just models that work."*
+### 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+
+---
+
+### 📦 Featured Project
+
+**[Smart Garbage Classifier](https://github.com/Adeoluwa2/smart-garbage-classifier)**  
+A neural network–based garbage classification system with **95% accuracy**.  
+Developed with **Python, Taipy, and Matplotlib** to automate waste sorting intelligently.
+
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeoluwa2&show_icons=true&theme=tokyonight" alt="Adeoluwa's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adeoluwa2&theme=tokyonight&hide_border=false" alt="Adeoluwa's GitHub streak"/>
+</div>
+
+---
+
+### ⚙️ Things I Use to Get Stuff Done
+
+- 💻 **OS:** Windows 11  
+- 🧠 **Editor:** VSCode  
+- 🌐 **Browser:** Brave / Chrome  
+- 🔧 **Hardware:** Dell Latitude (i5)  
+- 📚 **Resources:** arXiv, Medium, PapersWithCode, IEEE Xplore  
+
+---
+
+<div align="center">
+  <b>“Turning data into systems that matter — not just models that work.”</b>
+</div>

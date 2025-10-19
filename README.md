@@ -24,7 +24,7 @@ I’m a passionate **AI engineer and researcher** focused on bridging **machine 
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="./assets/ai_banner.gif" alt="AI Research Animation" style="max-width:300px; width:100%; height:auto; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Adeoluwa2/Adeoluwa2/main/assets/ai_banner.gif" alt="AI Research Animation" style="max-width:300px; width:100%; height:auto; border-radius:10px;" />
 </td>
 </tr>
 </table>

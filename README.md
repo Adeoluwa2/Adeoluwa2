@@ -1,19 +1,4 @@
 <div align="center">
-  <img src="./assets/hero.gif" alt="Adeoluwa Oyinlola — AI Researcher" width="100%"/>
-</div>
-
-<h1 align="center">Hey 👋, I'm Adeoluwa Oyinlola!</h1>
-<h3 align="center">AI Researcher | Machine Learning Engineer | Applied Scientist</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/adeoluwa-oyin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.adeoluwaoyinlola.com"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
-  <a href="mailto:adeoluwaoyinlola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
 
 <table>
 <tr>
@@ -22,12 +7,26 @@
 ### 👋 Hey there  
 I’m a passionate **AI engineer and researcher** focused on bridging **machine learning research** with **real-world impact** — from medical imaging and IoT analytics to sustainable agriculture.
 
+</td>
+<td width="45%" align="center" valign="middle">
+  <img src="./assets/ai_banner.gif" alt="AI Research Animation" style="max-width:300px; width:100%; height:auto; border-radius:10px;" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 💬 Talking About Personal Stuff
+
 - 🔭 Currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  
 - 🚀 Exploring **deep learning**, **computer vision**, and **edge analytics**.  
 - 💻 Most of my projects are available here on [GitHub](https://github.com/Adeoluwa2).  
 - 💬 Ask me about **machine learning**, **medical imaging**, or **IoT analytics** — I love to help.  
 - 🎓 MSc **Applied Artificial Intelligence (Distinction)** – *London South Bank University*.  
 - ⚡ Fun fact: My first RF sensing prototype worked after 27 failed iterations — persistence > luck.  
+
 
 </td>
 <td width="45%" align="center" valign="middle">

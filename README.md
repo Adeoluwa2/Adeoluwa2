@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Adeoluwa2/Adeoluwa2/main/assets/hero.gif" alt="Adeoluwa Oyinlola — AI Researcher" width="100%"/>
-</div>
 
 <h1 align="center">Hey 👋, I'm Adeoluwa Oyinlola!</h1>
 <h3 align="center">AI Researcher | Machine Learning Engineer | Applied Scientist</h3>

@@ -110,6 +110,15 @@ Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision*
 
 ---
 
+---
+
 <div align="center">
-  <b>“Star my repositories”</b>
+
+### ⭐ If you found my work interesting, consider [starring my repositories](https://github.com/Adeoluwa2?tab=repositories)!
+
+<a href="https://github.com/Adeoluwa2?tab=repositories">
+  <img src="https://img.shields.io/static/v1?label=Star&message=Repositories&color=yellow&style=for-the-badge&logo=github" alt="Star my repositories"/>
+</a>
+
 </div>
+

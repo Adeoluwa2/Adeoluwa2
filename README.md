@@ -22,6 +22,10 @@ I enjoy turning research concepts into working systems that make real-world impa
 
 ### 💬 Talking About Personal Stuff
 
+<div align="center">
+  <img src="./assets/ai_banner.gif" alt="AI Start GIF" width="100%" />
+</div>
+
 - 🔭 I’m currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  
 - 🚀 I’m exploring **deep learning**, **computer vision**, and **edge analytics**.  
 - 💻 Most of my projects are available here on [GitHub](https://github.com/Adeoluwa2).  

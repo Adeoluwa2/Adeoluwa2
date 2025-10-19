@@ -1,41 +1,34 @@
 <div align="center">
-
-<table>
-<tr>
-<td width="55%" align="left" valign="middle">
-
-### 👋 Hey there  
-I’m a passionate **AI engineer and researcher** focused on bridging **machine learning research** with **real-world impact** — from medical imaging and IoT analytics to sustainable agriculture.
-
-</td>
-<td width="45%" align="center" valign="middle">
-  <img src="./assets/ai_banner.gif" alt="AI Research Animation" style="max-width:300px; width:100%; height:auto; border-radius:10px;" />
-</td>
-</tr>
-</table>
-
+  <img src="./assets/hero.gif" alt="Adeoluwa Oyinlola — AI Researcher" width="100%"/>
 </div>
+
+<h1 align="center">Hey 👋, I'm Adeoluwa Oyinlola!</h1>
+<h3 align="center">AI Researcher | Machine Learning Engineer | Applied Scientist</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/adeoluwa-oyin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.adeoluwaoyinlola.com"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:adeoluwaoyinlola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Glad to see you here!
+
+I'm a passionate **AI engineer and researcher** who loves exploring the intersection of **machine learning, IoT, and applied science**.  
+I enjoy turning research concepts into working systems that make real-world impact — in **healthcare, agriculture, and intelligent sensing**.
 
 ---
 
 ### 💬 Talking About Personal Stuff
 
-- 🔭 Currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  
-- 🚀 Exploring **deep learning**, **computer vision**, and **edge analytics**.  
+- 🔭 I’m currently researching **AI for Sustainable Agriculture** at **UCL (University College London)**.  
+- 🚀 I’m exploring **deep learning**, **computer vision**, and **edge analytics**.  
 - 💻 Most of my projects are available here on [GitHub](https://github.com/Adeoluwa2).  
 - 💬 Ask me about **machine learning**, **medical imaging**, or **IoT analytics** — I love to help.  
-- 🎓 MSc **Applied Artificial Intelligence (Distinction)** – *London South Bank University*.  
+- 🎓 I recently earned an **MSc in Applied AI (Distinction)** from **London South Bank University**.  
 - ⚡ Fun fact: My first RF sensing prototype worked after 27 failed iterations — persistence > luck.  
-
-
-</td>
-<td width="45%" align="center" valign="middle">
-  <img src="./assets/ai_banner.gif" alt="AI Research Animation" style="max-width:300px; width:100%; height:auto; border-radius:10px;" />
-</td>
-</tr>
-</table>
-
-</div>
+- 📫 Reach me at **[adeoluwaoyinlola@gmail.com](mailto:adeoluwaoyinlola@gmail.com)**  
 
 ---
 
@@ -60,32 +53,20 @@ I’m a passionate **AI engineer and researcher** focused on bridging **machine 
 
 ---
 
-### 📦 Featured Projects
+### 📦 Featured Project
 
 **[Smart Garbage Classifier](https://github.com/Adeoluwa2/smart-garbage-classifier)**  
-🧠 A neural network–based garbage classification system achieving **95% accuracy**.  
-Built with **Python, Taipy, and Matplotlib** to automate waste sorting intelligently.
-
----
-
-**[Diabetes Prediction Model](https://github.com/Adeoluwa2/diabetes-prediction)**  
-📊 Machine learning system predicting diabetes onset using clinical data.  
-Implemented with **pandas**, **scikit-learn**, and **TensorFlow**, achieving **92% accuracy** and reducing error by 30%.
-
----
-
-**[Cassava Vision System](https://github.com/Adeoluwa2/cassava-vision-system)**  
-🌾 AI-powered **RF reflectometry** and vision-based analysis for cassava crop quality sensing.  
-Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision** and **AI-based frequency selection**.
+A neural network–based garbage classification system with **95% accuracy**.  
+Developed with **Python, Taipy, and Matplotlib** to automate waste sorting intelligently.
 
 ---
 
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adeoluwa2&show_icons=true&theme=tokyonight" alt="Adeoluwa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adeoluwa2&show_icons=true&theme=tokyonight" alt="Adeoluwa's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adeoluwa2&theme=tokyonight&hide_border=false" alt="Adeoluwa's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adeoluwa2&theme=tokyonight&hide_border=false" alt="Adeoluwa's GitHub streak"/>
 </div>
 
 ---
@@ -101,9 +82,5 @@ Part of ongoing **IEEE BioSENSORS 2025** research; integrates **computer vision*
 ---
 
 <div align="center">
-
-<h3>⭐ If you like my work, don't forget to <a href="https://github.com/Adeoluwa2?tab=repositories">star my repositories</a>!</h3>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
+  <b>“Turning data into systems that matter — not just models that work.”</b>
 </div>
